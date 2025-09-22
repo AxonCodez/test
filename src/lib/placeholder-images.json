@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Hero image showing students on a university campus.",
+      "imageUrl": "https://picsum.photos/seed/hero-vit/550/550",
+      "imageHint": "university campus students"
+    }
+  ]
+}
